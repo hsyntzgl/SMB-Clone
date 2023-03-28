@@ -74,8 +74,8 @@ Since some pipes and blocks have different functions, a special interface has be
 
 ## Game Controller
 
-← → : Movement
-↓ : Crouch
-Z : Fire/Run
-X : Jump
+← → : Movement <br>
+↓ : Crouch <br>
+Z : Fire/Run <br>
+X : Jump <br>
 Enter : Select/Pause
