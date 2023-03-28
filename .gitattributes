@@ -1,0 +1,4 @@
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
+*.zip filter=lfs diff=lfs merge=lfs -text
+/Users/huseyintazegul/Documents/GitHub/SMB-Clone/Super/[[:space:]]Mario/[[:space:]]Bros/[[:space:]]Clone/Assets/** filter=lfs diff=lfs merge=lfs -text
