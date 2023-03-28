@@ -3,7 +3,7 @@ ___*Note: This game is made to develop and explain Unity3D and C# skills of mine
 
 <hr>
 
-## Mario's Game Physics
+### Mario's Game Physics
 <br>
 For this, the Rigidbody2D component of the Unity3D game engine and the values at which Mario's movements will accelerate when the keys are pressed, the friction force etc. are written in such a way that it can be changed externally.
 
@@ -11,7 +11,7 @@ For this, the Rigidbody2D component of the Unity3D game engine and the values at
 
 <hr>
 
-## Animations
+### Animations
 
 <br>
 
@@ -24,7 +24,7 @@ According to the power enhancements the player receives, these animations change
 
 <hr>
 
-## Level Design
+### Level Design
 
 <br>
 
@@ -37,7 +37,7 @@ Objects that require interaction and have different width and height dimensions 
 
 <hr>
 
-## Particle System
+### Particle System
 
 <br>
 
@@ -53,7 +53,7 @@ In the game, the effect of breaking the empty brick and the gold effect shown in
 
 <hr>
 
-## Custom Inspector
+### Custom Inspector
 
 <br>
 
@@ -65,14 +65,14 @@ Since some pipes and blocks have different functions, a special interface has be
 
 <hr>
 
-## Game Footage
+### Game Footage
 
 ![Footage 1](https://media.giphy.com/media/NsOhVj8RII7ZgHH6YN/giphy.gif)
 ![Footage 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg0Yjk2YjhiYTk0YzRmMzUzNzZlZDBjMDc0NTI3MGJjMTQwMDQ1ZSZjdD1n/9XCkRMslJgCQsy1wlt/giphy.gif)
 ![Footage 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU3YzJhYmU0MzI0MGI2MWY1MGFmMjJiZTc5NDRhMjMwODExODU4MiZjdD1n/Pii4BwowkNeVP6NHL3/giphy.gif)
 ![Footage 4](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTAxZjA5NzEzYmI1MWExODkwMmUzMzIxOTZhZTQyNTA4NjhkNzQ1ZCZjdD1n/HRMZysoE2DkJwibs9I/giphy.gif)
 
-## Game Controller
+### Game Controller
 
 ← → : Movement <br>
 ↓ : Crouch <br>
