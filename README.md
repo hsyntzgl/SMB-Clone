@@ -1,5 +1,5 @@
 # Super Mario Bros Clone
-___*Note: This game is made to develop and explain Unity3D and C# skills of mine.*___
+___*Note: I made this game to develop and show my Unity3D and C# skills.*___
 
 <hr>
 
